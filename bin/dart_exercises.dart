@@ -1,4 +1,4 @@
-void main() {
+   void main() {
   // 1. Variable Declarations (Explicit Types)
   String studentName = "OLEA";
   int quizScore = 42;
