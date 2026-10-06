@@ -1,0 +1,12 @@
+========================================
+--- STUDENT GRADE COMPUTATION SYSTEM ---
+========================================
+Student Name: OLEA
+Quiz Score: 42 / 50
+Exam Score: 46 / 50
+Raw Score Total: 88 / 100
+Attendance Bonus: 5.0 pts
+Final Calculated Grade: 88.0%
+Passing Threshold: 75.0%
+Academic Status: PASSED
+========================================
